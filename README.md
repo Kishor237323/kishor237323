@@ -16,7 +16,7 @@
 - 🔭 Currently pursuing **B.Tech in CSE (Artificial Intelligence & Machine Learning)** at **REVA University** (CGPA: 8.88)
 - 🌱 Passionate about **Computer Vision**, **Generative AI**, and **Real-world AI Applications**
 - 💡 Focused on solving problems in **Railway Safety**, **Crowd Monitoring**, and **Healthcare**
-- 📫 Reach me: **kishorcheduri2@gmail.com** | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/kishor237323)
+- 📫 Reach me: **kishorcheduri2@gmail.com** | [LinkedIn](https://linkedin.com/in/CHPRABHUKISHOR) | [GitHub](https://github.com/kishor237323)
 
 ---
 
@@ -77,7 +77,7 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/your-linkedin-C H PRABHU KISHOR">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kishorcheduri2@gmail.com">
