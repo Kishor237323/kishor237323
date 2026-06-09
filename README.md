@@ -16,7 +16,7 @@
 - 🔭 Currently pursuing **B.Tech in CSE (Artificial Intelligence & Machine Learning)** at **REVA University** (CGPA: 8.88)
 - 🌱 Passionate about **Computer Vision**, **Generative AI**, and **Real-world AI Applications**
 - 💡 Focused on solving problems in **Railway Safety**, **Crowd Monitoring**, and **Healthcare**
-- 📫 Reach me: **kishorcheduri2@gmail.com** | [LinkedIn](https://linkedin.com/in/CHPRABHUKISHOR) | [GitHub](https://github.com/kishor237323)
+- 📫 Reach me: **kishorcheduri2@gmail.com**
 
 ---
 
@@ -45,22 +45,20 @@
 
 **1. AI-Powered Rail Madad Complaint Management System**  
 *Mar 2026*  
-- Built an end-to-end AI system to classify railway complaint images using **fine-tuned Vision Transformer (ViT-B16)**.  
-- Implemented metadata-driven prioritization using GPS + timestamp.  
-- Developed role-based dashboards for real-time complaint tracking and smart routing.  
-**Tech**: Python, Flask, PyTorch, Transformers, React.js, MongoDB, Geopy  
+- Built an end-to-end AI system using **fine-tuned Vision Transformer (ViT-B16)** for complaint image classification.  
+- Implemented GPS + timestamp based prioritization and smart routing.  
+- Developed role-based dashboards for real-time tracking.  
+**Tech**: Python, Flask, PyTorch, Transformers, React.js, MongoDB  
 
 **2. Stampede Detection System**  
 *April 2025*  
-- Developed a real-time crowd monitoring and risk prediction system.  
-- Used **CSRNet** for crowd density estimation and **YOLOv8** for event detection.  
-- Integrated with **Gemini LLM** to generate explainable safety insights and automated alerts.  
-**Tech**: Python, YOLOv8, Flask, OpenCV, Gemini API, NLP  
+- Real-time crowd monitoring using **CSRNet** (density estimation) + **YOLOv8** (event detection).  
+- Integrated **Gemini LLM** for explainable safety insights and automated alerts.  
+**Tech**: Python, YOLOv8, Flask, OpenCV, Gemini API  
 
 **3. Medical RAG Chatbot**  
 *Sep 2025*  
-- Built a Retrieval-Augmented Generation (RAG) chatbot for answering health-related queries.  
-- Implemented document retrieval using embeddings and vector search for accurate responses.  
+- Retrieval-Augmented Generation chatbot for medical queries using embeddings and vector search.  
 **Tech**: Python, LangChain, OpenAI API, Vector Database, RAG  
 
 ---
@@ -77,7 +75,7 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-C H PRABHU KISHOR">
+  <a href="https://www.linkedin.com/in/c-h-prabhu-kishor-84390b242">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kishorcheduri2@gmail.com">
