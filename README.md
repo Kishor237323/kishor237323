@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F2Z3Z5c2FsdG1nZ2F0aW9uJmV2ZW50X3R5cGU9Z2lmX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="AI Animation GIF"/>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Neural Network AI"/>
   
   <h1>Hi there, I'm <span style="color:#00b4d8">Prabhu Kishor</span> 👋</h1>
   
