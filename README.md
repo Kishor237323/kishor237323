@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F2Z3Z5c2FsdG1nZ2F0aW9uJmV2ZW50X3R5cGU9Z2lmX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="AI Animation GIF"/>
+  
   <h1>Hi there, I'm <span style="color:#00b4d8">Prabhu Kishor</span> 👋</h1>
   
   <p>
@@ -27,17 +29,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**AI/ML & Computer Vision**  
-- PyTorch • TensorFlow • OpenCV  
-- YOLOv8 • Vision Transformers (ViT)  
-- LangChain • RAG • Prompt Engineering
+**AI / ML & Computer Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00A3E0?style=for-the-badge&logo=yolo&logoColor=white)
 
 **Web & Database**  
-- React.js • Flask • Node.js  
-- MongoDB • SQL  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools**  
-- Git • AWS (Basics) • Gemini API • Geopy • OpenStreetMap
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
